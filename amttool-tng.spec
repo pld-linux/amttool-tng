@@ -1,4 +1,3 @@
-%include	/usr/lib/rpm/macros.perl
 Summary:	AmtTool TNG - utility to manage Intel AMT-aware devices
 Summary(pl.UTF-8):	AmtTool TNG - narzędzie do zarządzania urządzeniami obsługującymi Intel AMT
 Name:		amttool-tng
